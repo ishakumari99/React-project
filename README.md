@@ -1,4 +1,4 @@
-# React Concepts Demo - Student Project
+# React Project
 
 A simple React app to learn key concepts in **6-8 hours**.
 
